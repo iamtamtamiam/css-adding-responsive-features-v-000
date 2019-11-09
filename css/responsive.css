@@ -15,4 +15,7 @@
   #logo h1 {
     width: 35px;
   }
+  #logo h2 {
+    font-size: 2.2em;
+  }
 }
