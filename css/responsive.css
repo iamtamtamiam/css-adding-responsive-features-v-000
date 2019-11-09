@@ -4,7 +4,8 @@
   #social {
     position: absolute;
     width: auto;
-    margin: 82px 4px;
+    top: 82px;
+    right: 4px;
   }
 }
 
