@@ -46,7 +46,7 @@
   column-gap: 1.5em;
   -moz-column-count: 3;
   -webkit-column-count: 3;
-  column-count: 2;
+  column-count: 1;
   }
 }
 
