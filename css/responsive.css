@@ -34,7 +34,7 @@
 
 
 @media screen and (max-width: 750px) {
-  .wrapper {width: 90%;}
+  #navbar nav a {width: 90%;}
   #social {
     position: absolute;
     width: auto;
