@@ -1,5 +1,10 @@
 
 @media screen and (max-width: 900px) {
-  .wrapper {width: 90%;
+  .wrapper {width: 90%;}
+  #social {
+    position: absolute;
+    width: auto;
+    position: 82px, 4px;
   }
+  
 }
