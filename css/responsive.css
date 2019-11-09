@@ -53,5 +53,8 @@
     margin-left: 0;
     float: none;
   }
+  #details div {
+    height: auto;
+  }
 }
 
